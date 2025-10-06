@@ -1,6 +1,5 @@
-length = int(input())
-width = int(input())
-primeter = length * width
-area = (length * width) * 2
-print("primter is",primeter)
-print("area is ",area)
+num1 = int(input())
+num2 = int(input())
+print(num1,num2)
+sum = num1 + num2
+print("result is" , sum)
