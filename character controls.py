@@ -16,5 +16,3 @@ print("\n")
 #creates a new line
 print("\N{HEAVY BLACK HEART}")
 # Print unicode character with specified name
-print("\000 HEAVY BLACK HEART")
-print("\uhhhh HEAVY BLACK HEART \uhhhh")
