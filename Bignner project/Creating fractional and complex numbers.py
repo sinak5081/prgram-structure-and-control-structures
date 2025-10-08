@@ -1,0 +1,11 @@
+from fractions import Fraction
+num1 = int(input("Enter first number :"))
+num2 = int(input("Enter second number :"))
+com = complex(num1, num2)
+frac = Fraction(num1, num2)
+print("complex number is :",com)
+print("Real part is :", com.real)
+print("imaginary part is :",com.imag)
+print("fraction is :",frac)
+print("numerator :",frac.numerator)
+print("denomirator is :",frac.denominator)
