@@ -16,7 +16,3 @@ print("\n")
 #creates a new line
 print("\N{HEAVY BLACK HEART}")
 # Print unicode character with specified name
-<<<<<<< HEAD:character controls.py
-=======
-
->>>>>>> cf52b4a973f2b3e676d33203161bbc322dcd9418:charecter controls.py
