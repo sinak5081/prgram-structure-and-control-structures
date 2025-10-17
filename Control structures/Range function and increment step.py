@@ -6,3 +6,6 @@ for i in range(1,n + 1,2):
     sum = sum + (x ** i) * sign
     sign = -sign
 print("sum : ",sum)    
+
+
+#equation is: x**1 - x**3 + x**5 - ............ + x**n 
